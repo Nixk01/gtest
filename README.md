@@ -3,11 +3,6 @@ Title of My Document
 
 ## Nixk here
 
-### **Details**
-
-1. **1st here**
-2. **2nd**
-
 At the end of this **Day**, I plan to:
 
 1. Learn Git
@@ -19,3 +14,6 @@ My favorite quote is:
 > Do not despair
 > Try and try again
 > ~ Anonymous
+
+[Link]
+: [http://Nixk07.ee	](https://linktr.ee/Nixk07)
